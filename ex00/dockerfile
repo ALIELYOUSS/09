@@ -1,0 +1,3 @@
+FROM alpine
+WORKDIR /09/ex02
+CMD [ "./btc" ]
